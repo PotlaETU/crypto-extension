@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.popup-crypto{
+    width: 30em;
+    height: 35em;
+}
